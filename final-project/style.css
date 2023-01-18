@@ -1,0 +1,53 @@
+* {
+
+  
+}
+
+row p {
+    font-size: 35px;
+    
+}
+
+body {
+    background-color: gray;
+    
+
+}
+
+navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;  
+ 
+}
+row {
+    
+    float:left;
+    margin-left: 100px;
+    
+}
+row a {
+    display: inline-block;
+    padding: 45px 8px;
+    margin-left: 10px;
+    color: black;
+    
+}
+
+column-one {
+border-style: solid;
+border-width: 1px 15px 15px 10px;
+}
+
+column-two {
+
+}
+
+advice-bar{
+
+}
+
+footer {
+
+}
